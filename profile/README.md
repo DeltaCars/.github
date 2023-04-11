@@ -17,6 +17,11 @@ We encourage you to explore our codebase, fork our projects, and contribute your
 
 Thank you for visiting DeltaCars on GitHub, and we look forward to collaborating with you!
 
+<div style="display: flex;">
+<a href="https://github.com/DeltaCars/wiki/wiki">Wiki</a>&nbsp;|
+<a href="https://github.com/orgs/DeltaCars/projects/2">Backlog</a>
+
+</div>
 
 <!--
 
